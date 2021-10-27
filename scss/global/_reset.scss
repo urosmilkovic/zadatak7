@@ -1,0 +1,30 @@
+body {
+  box-sizing: border-box;
+  margin: 0px;
+  * {
+    box-sizing: border-box;
+    font-family: "Rubik", sans-serif;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0px;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+h3 {
+  font-size: 32px;
+}
+
+h4 {
+  font-size: 20px;
+}
